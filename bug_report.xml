@@ -1,1 +1,15 @@
 
+<bug>
+  <bug_ID>213</bug_ID>
+  <title>при создании файла в репозитории нет кнопки Comit changes</title>
+  <STR>
+    <action1>на веб интерфейсе создать файл</action1>
+    <action2>нажать Commit changes</action2>
+  </STR>
+  <AR>отсутсвует кнопка Commit changes, вместо нее Save file</AR>
+  <ER>Отобразится кнопка Commit changes</ER>
+  <Environment>
+    <browser>Google Chrome Версия 102.0.5005.62 (Официальная сборка), (64 бит)</browser>
+    <version_OC>Windows 10 Pro, 19042.1466</version_OC>
+  </Environment>
+</bug>
